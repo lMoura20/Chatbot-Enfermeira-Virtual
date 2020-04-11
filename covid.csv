@@ -1,0 +1,39 @@
+advogado,esposa advogado
+advogado,filho advogado
+advogado ,filha advogado
+esposa advogado,entregador de agua
+esposa advogado,filho advogado
+esposa advogado,filha advogado
+esposa advogado,entregador de alimentos
+advogado,entregador de alimentos
+advogado,correios
+esposa advogado,correios
+entregador de agua,varias casas e pessoas
+entregador de agua,centro de distribuição
+entregador de alimentos,varias casas e pessoas
+entregador de alimentos,restaurantes
+esposa advogado,Atendente supermercado
+advogado,Atendente supermercado
+entregador de agua,Atendente supermercado
+entregador de alimentos,Atendente supermercado
+medica,hospital
+enfermeiro,hospital
+tec de enfermagem,hospital
+advogado ,Seguranca farmacia
+esposa advogado,Seguranca farmacia
+doente,hospital
+família doente,hospital
+doente,família doente
+medica,Atendente supermercado
+enfermeira,Atendente supermercado
+tec de enfermagem,Atendente supermercado
+medica,Seguranca farmacia
+enfermeiro,Seguranca farmacia
+tec de enfermagem,Seguranca farmacia
+marido medica,Atendente supermercado
+esposa enfermeiro,Atendente supermercado
+marido tec de enfermagem,Atendente supermercado
+marido medica,Seguranca farmacia
+esposa enfermeiro,Seguranca farmacia
+marido tec de enfermagem,Seguranca farmacia
+advogado,escritório sem contato direto
